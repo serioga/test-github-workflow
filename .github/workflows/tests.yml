@@ -10,7 +10,7 @@ on:
     paths: [ "src/**", "test/**", "project.clj" ]
 
 jobs:
-  lein-test:
+  tests:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
