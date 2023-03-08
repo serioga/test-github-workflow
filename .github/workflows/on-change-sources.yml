@@ -8,4 +8,4 @@ on:
 
 jobs:
   run-tests:
-    uses: run-tests.yml
+    uses: ./.github/workflows/run-tests.yml
