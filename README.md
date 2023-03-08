@@ -1,3 +1,3 @@
 # test-github-workflow
 
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/serioga/test-github-workflow/tests?label=tests)
+[![tests](https://github.com/serioga/test-github-workflow/actions/workflows/tests.yml/badge.svg)](https://github.com/serioga/test-github-workflow/actions/workflows/tests.yml)
